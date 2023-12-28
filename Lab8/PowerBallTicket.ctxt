@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PowerBallTicket
+comment0.text=\nPowerBall\ ticket\ containing\ main\ method.\ \n\ @author\ Gus\ M.\n\ @version\ 4/7/22\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ This\ is\ the\ main\ method\ for\ the\ powerBall\ ticket\ class.\n\ Allows\ user\ to\ input\ a\ file\ name\ and\ how\ many\ tickets\ they\ want.\n\ @param\ args\ for\ main\ method.\n\ @throws\ IOException\ if\ need\ be.\n
+numComments=2

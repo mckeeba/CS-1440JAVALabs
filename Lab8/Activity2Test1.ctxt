@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Activity2Test1
+comment0.text=\n\ Tests\ the\ functionality\ of\ Activity\ 4.\n\ \n\ @author\ Julia\n\ @version\ 2014-03-18\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\ \ Sets\ up\ new\ I/O\ streams.\n\ Creates\ test\ object.\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\n\ Resets\ I/O\ streams.\n
+comment3.params=
+comment3.target=void\ testMain1()
+comment3.text=\n\ Tests\ the\ main\ method\ that\ prints\ tickets\ to\n\ a\ file.\ \n
+numComments=4

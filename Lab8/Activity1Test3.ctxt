@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Activity1Test3
+comment0.text=\n\ Tests\ the\ functionality\ of\ Activity\ 3.\n\ \n\ @author\ Julia\n\ @version\ 2014-03-18\n
+comment1.params=
+comment1.target=void\ testReset()
+comment1.text=\n\ Tests\ the\ reset\ method.\n
+comment2.params=
+comment2.target=void\ testGenerateLotteryPicks()
+comment2.text=\n\ Test\ the\ generateLotteryPicks\ method.\n
+comment3.params=
+comment3.target=void\ testToString()
+comment3.text=\n\ Test\ the\ toString\ method.\n
+numComments=4
