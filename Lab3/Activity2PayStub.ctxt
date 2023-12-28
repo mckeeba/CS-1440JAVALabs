@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Activity2PayStub
+comment0.text=\n\ Activity2PayStub\ class\ is\ part\ of\ Lab\ 3\ and\n\ creates\ a\ pay\ stub,\ but\ uses\ fields,\ a\ constructor,\ as\ well\ as\ multiple\ methods\ to\ do\n\ so.\n\n\ @author\ (Gus\ Mckee)\n\ @version\ (2/8/22)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ It\ all\ starts\ with\ the\ main\ method.\nThis\ main\ method\ creates\ the\ Scanner\ object\ to\ allow\ for\ user\ input.\nThe\ main\ method\ also\ creates\ a\ constructor\ for\ the\ following\ 3\ methods,\ creating\nobjects\ for\ the\ class.\n\ @param\ args\ command-line\ arguments\ (not\ used)\n
+comment2.params=keyboard
+comment2.target=void\ getInput(java.util.Scanner)
+comment3.params=
+comment3.target=void\ calculate()
+comment4.params=
+comment4.target=void\ printPayStub()
+numComments=5

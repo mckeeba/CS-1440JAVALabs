@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Activity1PayStub
+comment0.text=\n\ Activity1PayStub\ class\ is\ part\ of\ Lab\ 3\ and\n\ creates\ a\ simple\ pay\ stub.\n\n\ @author\ (your\ name)\n\ @version\ (date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ It\ all\ starts\ with\ the\ main\ method.\n\n\ @param\ args\ command-line\ arguments\ (not\ used)\n
+numComments=2

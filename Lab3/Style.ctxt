@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Style
+comment0.text=\n\ Class\ to\ test\ java's\ checkstyle\ extension.\n\ @author\ Gus\ Mckee\n\ @version\ 0.1\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ this\ is\ the\ main\ method\ of\ the\ program.\n\ Here\ we\ declare\ our\ integer\ values\ and\ print\ the\ result\ when\ combined.\n\ @param\ args\ Command\ line\ arguments.\n
+numComments=2

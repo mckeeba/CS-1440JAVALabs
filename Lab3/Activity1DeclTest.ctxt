@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Activity1DeclTest
+comment0.text=\n\ The\ test\ class\ Activity1DeclTest\n\n\ This\ is\ an\ advanced\ class\ used\ to\ unit\ test\ student\ work\ for\ CS\ 1440\ Lab\ 3.\ \ \n\ Students\ are\ welcome\ to\ view\ the\ code\ as\ an\ example\ of\ "good"\ code.\ \ At\ a\ \n\ "high\ level"\ 1440\ students\ can\ understand\ that\ this\ code\ tests\ the\ code\ they\n\ are\ writing\ in\ a\ "companion"\ class.\ \ They\ can\ see\ the\ inputs\ going\ into\ a\ \n\ test\ and\ the\ results\ expected.\ \ However,\ there\ is\ much\ sophisticated\ stuff\ \n\ going\ on\ "under\ the\ hood."\ \ Students\ should\ NOT\ be\ discouraged\ if\ they\ \n\ don't\ "get"\ the\ details.\ \ \n\n\ @author\ \ Jay\ Fenwick\n\ @version\ Spring\ 2014\n
+comment1.params=
+comment1.target=Activity1DeclTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ PayStubTest.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment4.params=
+comment4.target=void\ testConstantDeclarations()
+comment4.text=\n\ Tests\ for\ declarations\ of\ code\ in\ Activity\ 1.\n\ \n\ Student\ should\ be\ declaring\ three\ constant\ fields\n\ Verify\ these\ properties\ exist\ as\ best\ as\ we\ can.\n
+comment5.params=
+comment5.target=void\ testMethodDeclarations()
+comment5.text=\n\ Test\ the\ expected\ method\ declarations.\ \ \n\ \n\ We\ are\ only\ interested\ in\ the\ main\ method\ for\ now.\n
+numComments=6
