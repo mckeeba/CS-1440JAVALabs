@@ -1,0 +1,38 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/private/var/folders/z9/j9s3qvxn2qq5d5bsw10zs7bm0000gn/T/AppTranslocation/E2EFCCEC-D65E-4573-93E0-A9C8BB48148D/d/BlueJ.app/Contents/Resources/Java/userlib/checkstyle-extension-5.4-0.jar:/Users/gusmckee/Desktop/Lab10
+-d
+/Users/gusmckee/Desktop/Lab10/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/gusmckee/Desktop/Lab10/Flight.java
+<---- end of javadoc command ---->
+Loading source file /Users/gusmckee/Desktop/Lab10/Flight.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating /Users/gusmckee/Desktop/Lab10/doc/Flight.html...
+/Users/gusmckee/Desktop/Lab10/Flight.java:54: warning - @param argument "y" is not a parameter name.
+Generating /Users/gusmckee/Desktop/Lab10/doc/package-summary.html...
+Generating /Users/gusmckee/Desktop/Lab10/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/gusmckee/Desktop/Lab10/doc/allclasses.html...
+Generating /Users/gusmckee/Desktop/Lab10/doc/allclasses.html...
+Generating /Users/gusmckee/Desktop/Lab10/doc/index.html...
+1 warning

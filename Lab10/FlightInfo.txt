@@ -1,0 +1,30 @@
+885
+Bill Jones
+112233445566
+06/21/14
+Boston
+602
+Tim Jones
+113344556677
+06/21/14
+London
+212
+Tim Jones
+113344556677
+06/24/14
+Berlin
+650
+Tim Jones
+113344556677
+06/26/14
+Chicago
+111
+Bill Jones
+112233445566
+06/26/14
+New York
+190
+Tim Jones
+113344556677
+06/28/14
+Tokyo

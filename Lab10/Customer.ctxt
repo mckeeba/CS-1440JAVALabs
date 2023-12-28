@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\n\ Short,\ one-line\ description\ of\ Customer\ class\ here.\n\ \n\ Optionally,\ include\ a\ paragraph\ that\ provides\ a\ more\ \n\ detailed\ description.\n\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=customer
+comment1.target=Customer(Customer)
+comment1.text=\n\ Copy\ constructor\n
+comment2.params=name\ ssn
+comment2.target=Customer(java.lang.String,\ java.lang.String)
+comment2.text=\n\ An\ example\ of\ a\ method.\ \ Describe\ this\ method\ here.\n\ \n\ @param\ \ y\ \ \ \ \ A\ sample\ parameter\ for\ this\ method.\n\ @return\ \ \ \ \ Double\ the\ parameter\ and\ return\ it.\ \n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getSsn()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=ssn
+comment6.target=void\ setSsn(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
