@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Activity1Main
+comment0.text=\n\ Tests\ the\ main\ method\ described\ in\ activity\ 1.\n\ \n\ Uses\ Dr.\ Fenwick's\ method\ for\ testing\ with\ System.in\ and\ System.out.\n\ \n\ @author\ Julia\ Dana\n\ @version\ 02.24.2014\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\ \ Sets\ up\ new\ I/O\ streams.\n\ Creates\ test\ object.\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\n\ Resets\ I/O\ streams.\n
+comment3.params=
+comment3.target=void\ testMainA1()
+comment3.text=\n\ Test\ main\ method\ given\ package\ A\ and\ 9\ hours\ used.\n
+comment4.params=
+comment4.target=void\ testMainA2()
+comment4.text=\n\ Tests\ the\ main\ method\ with\ package\ A\ and\ 21\ hours\ used.\n
+comment5.params=
+comment5.target=void\ testMainC1()
+comment5.text=\n\ Tests\ the\ main\ method\ with\ package\ C.\n
+numComments=6

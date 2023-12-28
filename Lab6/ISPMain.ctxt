@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ISPMain
+comment0.text=\n\ This\ is\ the\ ISP\ main\ class\ and\ in\ this\ class\ contains\ our\ main\ method,\ \n\ which\ will\ perform\ much\ of\ the\ basic\ keyboard\ input\ from\ user\ and\ use\ \n\ objects\ we\ create\ in\ this\ project.\n\ @author\ a\n\ @version\ v\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ This\ main\ method\ gets\ user\ input\ for\ package\ of\ their\ choice,\ \n\ and\ also\ the\ hours\ they\ use\ based\ off\ of\n\ package\ selection.\ Also\ in\ this\ method\ we\ use\ .charAt(0)\ to\ get\ the\ \n\ first\ letter\ in\ the\ users\ input.\n\ And\ finally\ towards\ the\ bottom\ of\ our\ main\ method\ we\ print\ our\ \n\ calculations\ and\ savings,\ in\ reference\n\ to\ our\ ISP\ class.\n\ @param\ args\n
+numComments=2

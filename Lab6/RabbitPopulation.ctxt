@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RabbitPopulation
+comment0.text=\n\ Short,\ one-line\ description\ of\ RabbitPopulation\ class\ here.\n\ \n\ Optionally,\ include\ a\ paragraph\ that\ provides\ a\ more\ \n\ detailed\ description.\n\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=RabbitPopulation()
+comment2.params=initialP\ sixMonthP
+comment2.target=RabbitPopulation(int,\ int)
+comment3.params=iP
+comment3.target=void\ setInitialPopulation(int)
+comment4.params=
+comment4.target=int\ getInitialPopulation()
+comment5.params=sixmP
+comment5.target=void\ setSixMonthPopulation(int)
+comment6.params=
+comment6.target=int\ getSixMonthPopulation()
+comment7.params=
+comment7.target=double\ calculateGrowthRate()
+comment8.params=
+comment8.target=int\ calculate12MonthPopulation()
+comment8.text=\n\ This\ method\ provides\ the\ prediction\ for\ the\ number\ of\ rabbits\ after\ \n\ another\ 6\ months.\n
+numComments=9

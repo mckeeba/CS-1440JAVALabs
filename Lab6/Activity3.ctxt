@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Activity3
+comment0.text=\n\ Tests\ the\ rabbit\ population\ model\ described\ in\ activity\ 3.\n\ \n\ @author\ Julia\ Dana\n\ @version\ 02.24.2014\n\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\ \n\ Called\ before\ every\ test\ case\ method.\ Sets\ up\ new\ I/O\ streams.\ Creates\n\ test\ object.\n
+comment2.params=
+comment2.target=void\ testNoArg()
+comment2.text=\n\ Tests\ the\ no-arg\ constructor.\ Expects\ to\ default\ to\ zero.\n\ Requires\ accessors\ to\ be\ working\ correctly.\n
+comment3.params=
+comment3.target=void\ testParamConstructor()
+comment3.text=\n\ Tests\ the\ parameter\ constructor.\ \n\ Requires\ accessors\ to\ be\ working\ correctly.\n
+comment4.params=
+comment4.target=void\ testInitialPopulationAM()
+comment4.text=\n\ Tests\ the\ getInitialPopulation\ and\ setInitialPopulation\ methods.\n
+comment5.params=
+comment5.target=void\ testSixMonthPopulationAM()
+comment5.text=\n\ Tests\ the\ getSixMonthPopulation\ and\ setSixMonthPopulation\ methods.\n
+comment6.params=
+comment6.target=void\ testCalculateGrowthRate()
+comment6.text=\n\ Tests\ the\ growth\ rate\ calculation.\n
+comment7.params=
+comment7.target=void\ testCalculate12MonthPopulation()
+comment7.text=\n\ Tests\ the\ calculation\ of\ the\ population\ at\ 12\ months.\n
+numComments=8

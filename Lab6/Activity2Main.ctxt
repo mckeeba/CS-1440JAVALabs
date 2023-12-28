@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Activity2Main
+comment0.text=\n\ Tests\ that\ the\ main\ method\ is\ now\ printing\ information\n\ about\ savings.\n\ \n\ @author\ Julia\ Dana\n\ @version\ 02.24.2014\n
+comment1.params=
+comment1.target=void\ testMainA1()
+comment1.text=\n\ Tests\ that\ savings\ message\ does\ not\ print\ when\n\ there\ would\ be\ no\ savings.\n
+comment2.params=
+comment2.target=void\ testMainA2()
+comment2.text=\n\ Tests\ that\ savings\ message\ does\ print\ when\n\ there\ are\ savings.\n
+numComments=3
