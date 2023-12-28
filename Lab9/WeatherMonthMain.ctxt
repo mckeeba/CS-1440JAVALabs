@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WeatherMonthMain
+comment0.text=\n\ Short,\ one-line\ description\ of\ WeatherMonthMain\ class\ here.\n\ \n\ Optionally,\ include\ a\ paragraph\ that\ provides\ a\ more\ \n\ detailed\ description.\n\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ method\ for\ executing\ weather\ data\ and\ testing\ both\ classes.\n\ @param\ args\ for\ main\ method\n
+numComments=2

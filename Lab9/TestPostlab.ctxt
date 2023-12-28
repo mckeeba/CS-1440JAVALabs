@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TestPostlab
+comment0.text=\n\ Test\ WeatherComputation\ activity\ 2\ operations.\n\ \n\ @author\ Joel\ Swanson\n\ @version\ 03.15.2014\n
+comment1.params=
+comment1.target=void\ checkHdd001()
+comment1.text=\n\ Test\ the\ heating\ degree\ day\ method\ (hdd).\n
+comment2.params=
+comment2.target=void\ checkCdd002()
+comment2.text=\n\ Test\ the\ cooling\ degree\ day\ method\ (cdd).\n
+comment3.params=
+comment3.target=void\ checkMonthHdd003()
+comment3.text=\n\ Test\ the\ monthHdd\ method.\n
+comment4.params=
+comment4.target=void\ checkMonthCdd004()
+comment4.text=\n\ Test\ the\ monthCdd\ method.\n
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TestActivity2
+comment0.text=\n\ Test\ WeatherComputation\ activity\ 2\ operations.\n\ \n\ @author\ Joel\ Swanson\n\ @version\ 03.15.2014\n
+comment1.params=
+comment1.target=void\ checkAverageTemperature001()
+comment1.text=\n\ Test\ the\ averageTemperature\ method.\n
+comment2.params=
+comment2.target=void\ checkHighestTemperature002()
+comment2.text=\n\ Test\ the\ highestTemperature\ method.\n
+comment3.params=
+comment3.target=void\ checkLowestTemperature003()
+comment3.text=\n\ Test\ the\ lowestTemperature\ method.\n
+comment4.params=
+comment4.target=void\ checkNumberMissing004()
+comment4.text=\n\ Test\ the\ numberMissing\ method.\n
+numComments=5
