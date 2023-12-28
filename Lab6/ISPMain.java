@@ -3,7 +3,7 @@ import java.util.Scanner;
  * This is the ISP main class and in this class contains our main method, 
  * which will perform much of the basic keyboard input from user and use 
  * objects we create in this project.
- * @author a
+ * @author Gus Mckee
  * @version v
  * 
  */
