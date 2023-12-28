@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TestShapeFun
+comment0.text=\n\ Describe\ TestShapeFun\ here.\n\ @author\ Joel\ Swanson\n\ @version\ 02.02.2014\n
+comment1.params=
+comment1.target=TestShapeFun()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ TestShapeFun.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment4.params=
+comment4.target=void\ testActivity1()
+comment4.text=\n\ Test\ ShapeFun\ class.\ \ Only\ testing\ for\ style.\n
+comment5.params=
+comment5.target=void\ testSilent()
+comment5.text=\n\ Test\ ShapeFun\ class.\ \ Does\ not\ provide\ a\ printGrade\n\ call\ at\ the\ end.\ \ Allows\ calling\ from\ later\ JUnit\n\ tests.\n
+comment6.params=grade
+comment6.target=void\ printGrade(int)
+comment6.text=\n\ Store\ the\ grade\ at\ the\ point\ of\ failure\ then\ prints\ the\ report.\n\ @param\ grade\ The\ grade\ at\ the\ point\ of\ failure.\n
+comment7.params=
+comment7.target=java.lang.String\ gradeReport()
+comment7.text=\n\ Creates\ a\ string\ with\ the\ grades\ for\ output.\n\ @return\ Returns\ a\ report\ of\ the\ grade\ for\ the\ student\n\ at\ the\ point\ of\ the\ failure.\n
+numComments=8

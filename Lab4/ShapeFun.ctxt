@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ShapeFun
+comment0.text=\n\ This\ program\ creates\ three\ different\ shapes\ and\ modifies\ size,\ direction,\n\ and\ color.\n\ \n\ @author\ Gus\ Mckee\n\ @version\ something..\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ \ \n\ THis\ is\ the\ main\ method\ for\ the\ different\ shapes\ being\ modified.\n\ @param\ args\n
+numComments=2

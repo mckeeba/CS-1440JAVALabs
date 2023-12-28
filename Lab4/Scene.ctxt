@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Scene
+comment0.text=\n\ This\ is\ the\ scene\ class.\ Essentially\ you\ create\ 2\ houses,\ a\ moon,\ and\ \n\ a\ sun\ using\ the\ other\ classes\ in\ the\ project.\ \n\ @author\ Gus\n\ @version\ something..\n
+comment1.params=
+comment1.target=Scene()
+comment1.text=\n\ This\ is\ the\ constructor\ which\ puts\ together\ our\ Scene.\ For\ house1\ and\n\ house2\ it\ modifies\ the\ color\ and\ position.\ Then\ for\ our\ sun\ and\ moon\n\ it\ modifies\ the\ size,\ color,\ and\ position.\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ This\ is\ our\ main\ method\ which\ makes\ a\ call\ for\ the\ animate\ method.\n\ Also\ holds\ our\ scene.\n\ @param\ args\n
+comment3.params=
+comment3.target=void\ animate()
+comment3.text=\n\ this\ method\ creates\ an\ animation\ for\ our\ sun\ and\ moon.\n
+numComments=4
