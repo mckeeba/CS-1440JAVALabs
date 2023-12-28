@@ -6,7 +6,7 @@
  * and window, wecan just have the whole house.
  * 
  *
- * @author (your name) 
+ * @author (Gus Mckee) 
  * @version (a version number or a date)
  */
 public class House
