@@ -3,7 +3,7 @@ import java.util.Scanner;
  * Activity1PayStub class is part of Lab 3 and
  * creates a simple pay stub.
  *
- * @author (your name)
+ * @author Gus Mckee
  * @version (date)
  */
 public class Activity1PayStub
