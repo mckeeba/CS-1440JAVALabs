@@ -5,7 +5,7 @@
  * Optionally, include a paragraph that provides a more 
  * detailed description.
  *
- * @author (your name) 
+ * @author (Gus Mckee) 
  * @version (a version number or a date)
  */
 public class Pilot
